@@ -12,7 +12,7 @@
 // Global Site Config
 //======================================================================
 
-	define( "SITE_URL" , "https://ragstoriches.com" );
+	define( "SITE_URL" , "https://rags2riches.io" );
 	# Your website URL
 
 	define( "SRV_NAME" , "Rags to Riches" );

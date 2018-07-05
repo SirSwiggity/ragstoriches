@@ -12,13 +12,13 @@
 // Global Site Config
 //======================================================================
 
-	define( "SITE_URL" , "https://rust-servers.info/demo/" );
+	define( "SITE_URL" , "https://ragstoriches.com" );
 	# Your website URL
 
-	define( "SRV_NAME" , "Mega Awesome Servers" );
+	define( "SRV_NAME" , "Rags to Riches" );
         # Server or project name, will be used as title
 
-        define( "SRV_SLOGAN" , "Mega Awesome Servers Slogan" );
+        define( "SRV_SLOGAN" , "3x - Solo/Duo/Trio - Loot+" );
         # Server or project slogan, will be used as slogan and description
 
         define( "SRV_TWITTER" , "rustserversinfo" );
@@ -41,7 +41,7 @@
 	# Steam Group module, ON/OFF
 
 	/* How to find Steam Group ID 64 - https://support.multiplay.co.uk/support/solutions/articles/1000202859 */
-        define( "STEAM_GID" , "103582791435542737" );
+        define( "STEAM_GID" , "76561198083447371" );
 	# Your Steam Group ID64
 
 	define( "MODULE_STORE" , "ON" );
